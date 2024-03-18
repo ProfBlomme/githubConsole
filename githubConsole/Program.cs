@@ -11,6 +11,9 @@
 
             Console.WriteLine("Pull request fra Jannick");
             Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
         }
     }
 }
