@@ -8,6 +8,8 @@
             Console.WriteLine("Fra Jannick");
             Console.WriteLine("This should give us an error");
             Console.WriteLine("Fra Jannick igen");
+
+            Console.WriteLine("Pull request fra Jannick");
         }
     }
 }
