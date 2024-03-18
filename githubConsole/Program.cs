@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, Lets test merging with coworkers!");
             Console.WriteLine("Fra Jannick");
+            Console.WriteLine("This should give us an error");
             Console.WriteLine("Fra Jannick igen");
         }
     }
