@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Lets test merging with coworkers!");
+            Console.WriteLine("Fra Jannick");
             Console.WriteLine("This should give us an error");
 
         }
