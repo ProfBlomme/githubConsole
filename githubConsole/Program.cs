@@ -10,6 +10,7 @@
             Console.WriteLine("Fra Jannick igen");
 
             Console.WriteLine("Pull request fra Jannick");
+            Console.WriteLine("test");
         }
     }
 }
