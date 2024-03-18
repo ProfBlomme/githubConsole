@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test af ruleset");
-
+            Console.WriteLine("Pull request fra Jannick");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
         }
     }
 }
